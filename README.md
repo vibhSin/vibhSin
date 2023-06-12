@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vibhor Singh
-- 👀 I’m interested in Chess.
+- 👀 I’m like playing Chess.
 - 🌱 I’m currently learning Web Development
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 Reach me at vibhorsingh931@gmail.com
